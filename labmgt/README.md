@@ -4,5 +4,6 @@
 
 * best_practices_for_science.md: Basic expectations to help us all do repeatable, transparent, and well-documented science
 * google_backup.md: Instructions for backing up our Google Drive files
+* how_to_lab_notebooks: Tips for documenting your research
 
 
